@@ -1,9 +1,9 @@
-Background
+<h3>Background</h3>
 You are the new Chief Data Scientist for your local government area. In this capacity, you'll be helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
 
 As a first task, you've been asked to analyse the area-wide standardised test results. You'll be given access to every student's maths and reading scores, as well as various information on the schools they attend. Your task is to aggregate the data to showcase obvious trends in school performance.
 
-Before You Begin
+<h3>Before You Begin Background</h3>
 Create a new repository for this project called pandas-challenge. Do not add this assignment to an existing repository.
 
 Clone the new repository to your computer.
@@ -14,17 +14,17 @@ Add your Jupyter notebook to this folder. This will be the main script to run fo
 
 Push these changes to GitHub or GitLab.
 
-Files
+<h3>Files</h3>
 Download the following files to help you get started:
 
 Module 4 Challenge filesLinks to an external site.
 
-Instructions
+<h3>Instructions</h3>
 Using Pandas and Jupyter Notebook, create a report that includes the following data. Your report must include a written description of at least two observable trends based on the data.
 
 Hint: Check out the sample solution called PyCitySchools_starter.ipynb located in the .zip file to review the desired format for this assignment.
 
-Local Government Area (LGA) Summary
+<h3>Local Government Area (LGA) Summary</h3>
 Perform the necessary calculations and then create a high-level snapshot of the local government area's key metrics in a DataFrame.
 
 Include the following:
@@ -47,7 +47,7 @@ Average reading score
 
 Note: A passing grade is 50 or higher.
 
-School Summary
+<h3>School Summary</h3>
 Perform the necessary calculations and then create a DataFrame that summarises key metrics about each school.
 
 Include the following:
@@ -72,23 +72,23 @@ Average reading score
 
 % overall passing (the percentage of students who passed maths AND reading)
 
-Highest-Performing Schools (by % Overall Passing)
+<h3>Highest-Performing Schools (by % Overall Passing)</h3>
 Sort the schools by % Overall Passing in descending order and display the top 5 rows.
 
 Save the results in a DataFrame called "top_schools".
 
-Lowest-Performing Schools (by % Overall Passing)
+<h3>Lowest-Performing Schools (by % Overall Passing)</h3>
 Sort the schools by % Overall Passing in ascending order and display the top 5 rows.
 
 Save the results in a DataFrame called "bottom_schools".
 
-Maths Scores by Year
+<h3>Maths Scores by Year</h3>
 Perform the necessary calculations to create a DataFrame that lists the average maths score for students of each year level (9, 10, 11, 12) at each school.
 
-Reading Scores by Year
+<h3>Reading Scores by Year</h3>
 Create a DataFrame that lists the average reading score for students of each year level (9, 10, 11, 12) at each school.
 
-Scores by School Spending
+<h3>Scores by School Spending</h3>
 Create a table that breaks down school performance based on average spending ranges (per student).
 
 Use the code provided below to create four bins with reasonable cutoff values to group school spending.
